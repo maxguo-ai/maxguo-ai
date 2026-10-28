@@ -18,6 +18,10 @@
 
 `Python` `C++` `ROS` `PyTorch` `Linux` `Git`
 
+## 项目
+
+- [patent-tech-explain](https://github.com/maxguo-ai/patent-tech-explain) — 把专利文本翻译成工程师能看懂的技术语言，每条结论强制标注原文段落号。纯标准库实现，附真实运行样例。
+
 ## 联系
 
 技术咨询与合作：通过 GitHub Issues 留言，或在本仓库提讨论。
